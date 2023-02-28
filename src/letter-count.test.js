@@ -14,3 +14,5 @@ describe('getLetterCount - basic functionality', () => {
     })
 })
 
+// then run the first test --> npx mocha "src/**/*.test.js" --recursive --require @babel/register
+// it should be failed, just to have the first failing test, just to make sure wont give us a false positive
