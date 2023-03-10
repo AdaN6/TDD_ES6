@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@babel/preset-env": "^7.20.2",
-    "@babel/register": "^7.21.0"
+    "@babel/register": "^7.21.0",
+    "lodash": "^4.17.21"
   }
 }
